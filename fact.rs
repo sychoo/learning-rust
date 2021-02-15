@@ -1,5 +1,5 @@
 // Thu Feb 11 11:46:52 EST 2021
-// factorial
+// factorial 5! = 5 x 4 x 3 x 2 x 1
 
 fn f1(n: u32) -> u32 {
     if n < 2 {
